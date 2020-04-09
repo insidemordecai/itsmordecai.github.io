@@ -1,4 +1,6 @@
-Mordecai's Portfolio.
+Mordecai's Portfolio
+
+To view portfolio, click [here](https://itsmordecai.github.io)
 
 Credits:
 
@@ -8,4 +10,4 @@ Credits:
 	Other:
 		Paradigm Shift by HTML5 UP
 		html5up.net | @ajlkn
-		Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)ols)
+		Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
