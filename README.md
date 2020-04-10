@@ -1,13 +1,5 @@
-Mordecai's Portfolio
+**Portfolio**
 
-To view portfolio, click [here](https://itsmordecai.github.io)
+My personal portfolio can be accessed [here](https://itsmordecai.github.io) and is hosted on GitHub Pages.
 
-Credits:
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		Paradigm Shift by HTML5 UP
-		html5up.net | @ajlkn
-		Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+For info on hosting on GitHub Pages click [here](https://pages.github.com/) 
