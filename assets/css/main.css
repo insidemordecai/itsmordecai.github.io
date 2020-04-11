@@ -2571,7 +2571,7 @@ input, select, textarea {
 
 			ul.items > li {
 				padding-left: 0;
-				margin: 0 0 3rem 0;
+				margin: 0 0 1rem 0;
 			}
 
 				ul.items > li > h3 {
@@ -2585,7 +2585,7 @@ input, select, textarea {
 				ul.items > li:last-child {
 					margin-bottom: 0;
 				}
-
+				
 		@media screen and (max-width: 736px) {
 
 			ul.items > li {
@@ -3361,7 +3361,7 @@ input, select, textarea {
 					}
 
 				#wrapper > section.intro > .content {
-					height: 100vh;
+					height: 100vmin;
 					max-width: none;
 				}
 
